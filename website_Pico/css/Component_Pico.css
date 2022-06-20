@@ -125,7 +125,7 @@
 	background-color: #fff;
 }
 
-@media (max-width: 320px){
+@media (max-width: 390px){
 	.header{
 		height: 60px;
 	}
